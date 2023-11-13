@@ -22,6 +22,9 @@ public class TugasIndividu3 {
 
             // Baris baru setelah setiap baris angka
             System.out.println();
+        
         }
+        sc.close();
+    
     }
 }
