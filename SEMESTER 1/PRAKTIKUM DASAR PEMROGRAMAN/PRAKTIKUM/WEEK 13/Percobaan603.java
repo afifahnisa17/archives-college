@@ -18,6 +18,7 @@ public class Percobaan603 {
 
         vol = hitungVolume(t, p,l);
         System.out.println("Volume balok adalah " + vol);
+        input.close();
     }
 
     static int hitungLuas (int pjg, int lb) {
